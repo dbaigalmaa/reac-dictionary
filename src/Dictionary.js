@@ -27,7 +27,7 @@ export default function Dictionary() {
           type="search"
           onChange={handleKeyword}
           placeholder="Type your word"
-        ></input>
+        />
       </form>
       <Results res={results} />
     </div>
