@@ -13,7 +13,16 @@ function App() {
           <h2>Dictionary</h2>
           <Dictionary />
         </main>
-        <footer className="App-footer text-center">Coded by Bella</footer>
+        <footer className="App-footer text-center">
+          Coded by Bella{" "}
+          <a
+            href="https://github.com/dbaigalmaa/reac-dictionary"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open-sourced on GitHub
+          </a>
+        </footer>
       </div>
     </div>
   );
