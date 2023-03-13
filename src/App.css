@@ -1,3 +1,9 @@
+body {
+  background: lightgoldenrodyellow;
+}
+a {
+  color: goldenrod;
+}
 .App-header {
   margin: 30px 0;
 }
@@ -5,4 +11,7 @@
   max-width: 200px;
   display: block;
   margin: 0 auto;
+}
+.App-footer {
+  margin: 30px 0;
 }
